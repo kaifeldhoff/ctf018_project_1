@@ -1,6 +1,6 @@
 # Projekt 1
 
-Ein Toy-Projekt für 18. CTF-Schulungstag
+Ein uper oy-Projekt für 18. CTF-Schulungstag
 
 ## Installation
 
